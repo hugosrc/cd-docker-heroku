@@ -1,0 +1,28 @@
+.home-container {
+    background: #10102E;
+
+    width: 489px;
+    height: auto;
+
+    padding: 48px;
+    margin-top: 172px;
+
+    border: 1px solid #222238;
+    border-radius: 4px;
+}
+
+.home-container h1 {
+    color: #656F99;
+}
+
+.home-container p {
+    margin: 16px 0;
+
+    color: #656F99;
+}
+
+.home-container a {
+    color: #00D5C7;
+    text-decoration: none;
+    font-weight: bold;
+}
